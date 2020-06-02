@@ -34,7 +34,7 @@
   )
 
   (setup
-    (last_trace_width 0.762)
+    (last_trace_width 0.2032)
     (user_trace_width 0.254)
     (user_trace_width 0.508)
     (user_trace_width 0.762)
@@ -249,7 +249,7 @@
     (add_net "Net-(U3-Pad8)")
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED4B019)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED4B019)
     (at 99.568 97.155)
     (path /5EDD99A5)
     (fp_text reference TP3 (at 0 2) (layer F.SilkS) hide
@@ -393,7 +393,7 @@
     )
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED5CD55)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED5CD55)
     (at 105.918 121.92)
     (path /5EE21D5A)
     (fp_text reference TP1 (at 0 2) (layer F.SilkS) hide
@@ -406,7 +406,7 @@
       (net 36 "Net-(TP1-Pad1)"))
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED4EEDF)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED4EEDF)
     (at 102.743 121.92)
     (path /5EE218F1)
     (fp_text reference TP2 (at 0 2) (layer F.SilkS) hide
@@ -419,7 +419,7 @@
       (net 37 "Net-(TP2-Pad1)"))
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED4DDFB)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED4DDFB)
     (at 102.743 97.155)
     (path /5EDE7AF1)
     (fp_text reference TP4 (at 0 2) (layer F.SilkS) hide
@@ -432,7 +432,7 @@
       (net 39 "Net-(TP4-Pad1)"))
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED6157B)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED6157B)
     (at 99.568 121.92)
     (path /5EE02092)
     (fp_text reference TP5 (at 0 2) (layer F.SilkS) hide
@@ -445,7 +445,7 @@
       (net 40 "Net-(TP5-Pad1)"))
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED4734B)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED4734B)
     (at 154.94 121.285)
     (path /5EE54052)
     (fp_text reference TP6 (at 0 2) (layer F.SilkS) hide
@@ -458,7 +458,7 @@
       (net 41 "Net-(TP6-Pad1)"))
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED5D4CF)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED5D4CF)
     (at 189.865 104.14)
     (path /5F00C577)
     (fp_text reference TP7 (at 0 2) (layer F.SilkS) hide
@@ -932,7 +932,7 @@
     )
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED4B04E)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED4B04E)
     (at 154.94 96.52)
     (path /5F92C540)
     (fp_text reference TP8 (at 0 2) (layer F.SilkS) hide
@@ -945,7 +945,7 @@
       (net 7 +5V))
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED4DD4A)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED4DD4A)
     (at 105.918 97.155)
     (path /5F907689)
     (fp_text reference TP9 (at 0 2) (layer F.SilkS) hide
@@ -958,7 +958,7 @@
       (net 56 GND))
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED62D2F)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED62D2F)
     (at 174.625 121.285 270)
     (path /5F906DB1)
     (fp_text reference TP10 (at 0 2 90) (layer F.SilkS) hide
@@ -2231,7 +2231,7 @@
     )
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED5ED0C)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED5ED0C)
     (at 188.595 96.52 180)
     (path /5EFB13C5)
     (fp_text reference TP11 (at 0 2) (layer F.SilkS) hide
@@ -2244,7 +2244,7 @@
       (net 65 "Net-(C19-Pad2)"))
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED5EFB3)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED5EFB3)
     (at 183.515 96.52 180)
     (path /5EFC6546)
     (fp_text reference TP12 (at 0 2) (layer F.SilkS) hide
@@ -2257,7 +2257,7 @@
       (net 67 "Net-(C21-Pad2)"))
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED60781)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED60781)
     (at 178.435 96.52 180)
     (path /5EFDB82F)
     (fp_text reference TP13 (at 0 2) (layer F.SilkS) hide
@@ -2270,7 +2270,7 @@
       (net 68 "Net-(C22-Pad2)"))
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED5D4A9)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED5D4A9)
     (at 189.865 109.22 90)
     (path /5EF15AF7)
     (fp_text reference TP14 (at 0 2 90) (layer F.SilkS) hide
@@ -2283,7 +2283,7 @@
       (net 58 "Net-(C7-Pad2)"))
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED7490A)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED7490A)
     (at 189.865 114.3 90)
     (path /5EF2A052)
     (fp_text reference TP15 (at 0 2 90) (layer F.SilkS) hide
@@ -2296,7 +2296,7 @@
       (net 61 "Net-(C8-Pad2)"))
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED623BC)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED623BC)
     (at 178.435 121.285)
     (path /5F082DB8)
     (fp_text reference TP16 (at 0 2) (layer F.SilkS) hide
@@ -2309,7 +2309,7 @@
       (net 56 GND))
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED623C1)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED623C1)
     (at 189.865 121.285)
     (path /5F08309D)
     (fp_text reference TP17 (at 0 2) (layer F.SilkS) hide
@@ -2322,7 +2322,7 @@
       (net 56 GND))
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED623C6)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED623C6)
     (at 182.245 121.285)
     (path /5F083446)
     (fp_text reference TP18 (at 0 2) (layer F.SilkS) hide
@@ -2335,7 +2335,7 @@
       (net 56 GND))
   )
 
-  (module improve-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED623CB)
+  (module vector06c-rgb2tv:PAD-150-60 (layer F.Cu) (tedit 5ED3E57D) (tstamp 5ED623CB)
     (at 186.055 121.285)
     (path /5F0F3A08)
     (fp_text reference TP19 (at 0 2) (layer F.SilkS) hide
@@ -2806,11 +2806,10 @@
   (gr_arc (start 190.627 96.139) (end 192.405 96.139) (angle -90) (layer Edge.Cuts) (width 0.05))
   (gr_arc (start 190.627 122.682) (end 190.627 124.46) (angle -90) (layer Edge.Cuts) (width 0.05))
   (gr_arc (start 98.298 122.682) (end 96.52 122.682) (angle -90) (layer Edge.Cuts) (width 0.05))
-  (gr_text "Vector-06C video mod\nDesign by Improve\nThis custom board by desaster\nhttps://zx-pk.ru/threads/8739-vektor-06ts-videovykhod-podklyuchenie-k-tv/" (at 186.436 115.824) (layer B.SilkS) (tstamp 5ED6D1C8)
+  (gr_text "Vector-06C video mod\nDesign by Improver\nThis custom board by desaster\nhttps://zx-pk.ru/threads/8739-vektor-06ts-videovykhod-podklyuchenie-k-tv/" (at 186.436 115.824) (layer B.SilkS) (tstamp 5ED6D1C8)
     (effects (font (size 0.75 0.75) (thickness 0.12)) (justify left mirror))
   )
 
-  (via (at 118.872 110.744) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 56))
   (segment (start 142.959999 96.308001) (end 142.24 97.028) (width 0.2032) (layer F.Cu) (net 1))
   (segment (start 143.51 95.758) (end 142.959999 96.308001) (width 0.2032) (layer F.Cu) (net 1))
   (segment (start 146.736 95.758) (end 143.51 95.758) (width 0.2032) (layer F.Cu) (net 1))
@@ -3162,6 +3161,7 @@
   (segment (start 102.743 111.825) (end 102.743 110.2995) (width 0.254) (layer F.Cu) (net 51))
   (segment (start 102.362 109.9185) (end 101.6 109.9185) (width 0.254) (layer F.Cu) (net 51))
   (segment (start 104.013 102.3) (end 102.743 102.3) (width 0.254) (layer F.Cu) (net 52))
+  (via (at 118.872 110.744) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 56))
   (segment (start 106.855 116.473) (end 106.553 116.775) (width 0.762) (layer F.Cu) (net 56) (tstamp 5ED4A172))
   (segment (start 108.458 116.473) (end 106.855 116.473) (width 0.762) (layer F.Cu) (net 56) (tstamp 5ED4A16F))
   (segment (start 98.933 107.25) (end 100.203 107.25) (width 0.254) (layer F.Cu) (net 56))

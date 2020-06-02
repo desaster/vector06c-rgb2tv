@@ -1,4 +1,4 @@
-update=2.6.2020 11.14.47
+update=2.6.2020 12.39.50
 version=1
 last_client=kicad
 [general]
@@ -15,7 +15,7 @@ LibDir=
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=improve-rgb2tv.net
+LastNetListRead=vector06c-rgb2tv.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0

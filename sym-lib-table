@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name improve-rgb2tv-symbols)(type Legacy)(uri ${KIPRJMOD}/improve-rgb2tv-symbols.lib)(options "")(descr ""))
+  (lib (name vector06c-rgb2tv-symbols)(type Legacy)(uri ${KIPRJMOD}/vector06c-rgb2tv-symbols.lib)(options "")(descr ""))
 )

@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name improve-rgb2tv)(type KiCad)(uri ${KIPRJMOD}/improve-rgb2tv.pretty)(options "")(descr ""))
+  (lib (name vector06c-rgb2tv)(type KiCad)(uri ${KIPRJMOD}/vector06c-rgb2tv.pretty)(options "")(descr ""))
 )

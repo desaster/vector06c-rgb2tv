@@ -1,4 +1,4 @@
-This is [Improve's RGB2TV](https://zx-pk.ru/threads/8739-vektor-06ts-videovykhod-podklyuchenie-k-tv.html?p=981527&viewfull=1#post981527) recreated in KiCAD
+This is [Improver's RGB2TV](https://zx-pk.ru/threads/8739-vektor-06ts-videovykhod-podklyuchenie-k-tv.html?p=981527&viewfull=1#post981527) recreated in KiCAD
 
 Changes to the original design:
 
