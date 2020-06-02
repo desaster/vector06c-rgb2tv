@@ -1,0 +1,15 @@
+# export files for BOM
+*.csv
+*.tsv
+*.xml
+# backup files
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+#
+fp-info-cache
+*.7z
+*.zip
+output
+_autosave-*
