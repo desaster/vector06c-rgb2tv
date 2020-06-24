@@ -386,7 +386,7 @@ F 1 "220uF" V 4000 1350 50  0000 C CNN
 F 2 "Capacitor_Tantalum_SMD:CP_EIA-3528-15_AVX-H_Pad1.50x2.35mm_HandSolder" H 4188 1200 50  0001 C CNN
 F 3 "~" H 4150 1350 50  0001 C CNN
 	1    4150 1350
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	4000 1350 3700 1350
@@ -588,24 +588,6 @@ NoConn ~ 3700 4800
 NoConn ~ 3700 6050
 Wire Wire Line
 	5000 5750 5100 5750
-Wire Wire Line
-	5100 5750 5100 4150
-Wire Wire Line
-	5100 4150 4850 4150
-Connection ~ 5100 4150
-Wire Wire Line
-	5100 4150 5100 3650
-$Comp
-L Connector:TestPoint TP6
-U 1 1 5EE54052
-P 4850 4150
-F 0 "TP6" V 4950 4250 50  0001 C CNN
-F 1 "SYNC" V 4850 4350 50  0000 L CNN
-F 2 "vector06c-rgb2tv:PAD-150-60" H 5050 4150 50  0001 C CNN
-F 3 "~" H 5050 4150 50  0001 C CNN
-	1    4850 4150
-	0    -1   -1   0   
-$EndComp
 $Comp
 L Device:L L1
 U 1 1 5EE54C31
@@ -1002,10 +984,6 @@ Wire Wire Line
 Wire Wire Line
 	8450 4500 8450 3700
 Connection ~ 8450 3700
-Wire Wire Line
-	5400 4500 5250 4500
-Wire Wire Line
-	5250 4500 5250 4700
 $Comp
 L Device:C C12
 U 1 1 5F13267F
@@ -1017,9 +995,6 @@ F 3 "~" H 5250 4900 50  0001 C CNN
 	1    5250 4900
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	5250 4700 5700 4700
-Connection ~ 5250 4700
 Wire Wire Line
 	5250 4700 5250 4750
 Wire Wire Line
@@ -1846,4 +1821,29 @@ Wire Wire Line
 	7900 2100 7900 1600
 Wire Wire Line
 	7900 1600 8500 1600
+Connection ~ 5250 4700
+Wire Wire Line
+	5250 4700 5700 4700
+Wire Wire Line
+	5100 4150 5100 3650
+Wire Wire Line
+	5250 4500 5250 4700
+Wire Wire Line
+	5400 4500 5250 4500
+$Comp
+L Connector:TestPoint TP6
+U 1 1 5EE54052
+P 4850 4150
+F 0 "TP6" V 4950 4250 50  0001 C CNN
+F 1 "SYNC" V 4850 4350 50  0000 L CNN
+F 2 "vector06c-rgb2tv:PAD-150-60" H 5050 4150 50  0001 C CNN
+F 3 "~" H 5050 4150 50  0001 C CNN
+	1    4850 4150
+	0    -1   -1   0   
+$EndComp
+Connection ~ 5100 4150
+Wire Wire Line
+	5100 4150 4850 4150
+Wire Wire Line
+	5100 5750 5100 4150
 $EndSCHEMATC
