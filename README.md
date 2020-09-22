@@ -1,5 +1,7 @@
 This is [Improver's RGB2TV](https://zx-pk.ru/threads/8739-vektor-06ts-videovykhod-podklyuchenie-k-tv.html?p=981527&viewfull=1#post981527) recreated in KiCAD
 
+**NOTE: I have not been able to get composite or s-video output (CXA2075M) working on this board. It works fine for fixing sync & colors, though.**
+
 Changes to the original design:
 
 * Outputs for R, G, B and S-Video
